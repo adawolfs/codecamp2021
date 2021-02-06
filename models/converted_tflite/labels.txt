@@ -1,0 +1,10 @@
+0 bulbasaur
+1 ivysaur
+2 venusaur
+3 charmander
+4 charmeleon
+5 charizard
+6 squirtle
+7 wartortle
+8 blastoise
+9 pikachu
